@@ -48,7 +48,7 @@ OPNsense is the only path between zones, with default deny between every zone. E
 | 60 | SOC | 10.10.60.0/24 | Elastic SIEM (VM) |
 | 999 | Dead | none | Trunk native VLAN, unused ports |
  
-## Repository layout
+## Repository layout (full soon)
  
 ```
 ├── README.md
